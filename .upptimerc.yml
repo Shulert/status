@@ -12,7 +12,7 @@ sites:
     url: https://i.shulert.com
 status-website:
   cname: status.shulert.com
-  logoUrl: https://i.shulert.com/logo.png
+  logoUrl: https://i.shulert.com/round.png
   name: Shulert Status
   introTitle: "Shulert | Pray Your Way"
   introMessage: We work hard to make sure Shulert is always online and ready to help you! If you are experiencing issues, please reference the chart below.
