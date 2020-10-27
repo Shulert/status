@@ -5,7 +5,7 @@
     "slug": "shulert-website",
     "status": "up",
     "uptime": "100.00",
-    "time": 346
+    "time": 347
   },
   {
     "name": "Shulert API",
@@ -13,7 +13,7 @@
     "slug": "shulert-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 270
+    "time": 261
   },
   {
     "name": "Shulert Database",
@@ -29,6 +29,6 @@
     "slug": "shulert-cdn",
     "status": "up",
     "uptime": "100.00",
-    "time": 215
+    "time": 206
   }
 ]
