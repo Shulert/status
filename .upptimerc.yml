@@ -24,3 +24,6 @@ status-website:
       href: https://www.shulert.com
     - title: Status
       href: /
+      
+i18n:
+  footer: Powered by [Upptime](https://upptime.js.org)
