@@ -1,7 +1,7 @@
 - url: https://www.shulert.com
-- status: down
-- code: 404
-- responseTime: 257
-- lastUpdated: 2020-11-01T01:48:14.337Z
+- status: up
+- code: 200
+- responseTime: 102
+- lastUpdated: 2020-11-01T01:53:48.348Z
 - startTime: 2020-10-23T18:32:57.729Z
 - generator: Upptime <https://github.com/upptime/upptime>
