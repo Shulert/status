@@ -3,9 +3,9 @@
     "name": "Shulert Website",
     "url": "https://www.shulert.com",
     "slug": "shulert-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 292
+    "time": 283
   },
   {
     "name": "Shulert API",
