@@ -3,9 +3,9 @@
     "name": "Shulert Website",
     "url": "https://www.shulert.com",
     "slug": "shulert-website",
-    "status": "down",
-    "uptime": "99.96",
-    "time": 274
+    "status": "up",
+    "uptime": "100.00",
+    "time": 277
   },
   {
     "name": "Shulert API",
@@ -27,8 +27,8 @@
     "name": "Shulert CDN",
     "url": "https://i.shulert.com",
     "slug": "shulert-cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 174
+    "time": 170
   }
 ]
