@@ -11,17 +11,17 @@
     "name": "Shulert API",
     "url": "https://api.shulert.com/status/api",
     "slug": "shulert-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 197
+    "time": 195
   },
   {
     "name": "Shulert Database",
     "url": "https://api.shulert.com/status/db",
     "slug": "shulert-database",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 30
+    "time": 29
   },
   {
     "name": "Shulert CDN",
