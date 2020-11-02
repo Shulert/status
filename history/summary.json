@@ -3,23 +3,23 @@
     "name": "Shulert Website",
     "url": "https://www.shulert.com",
     "slug": "shulert-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 286
+    "time": 274
   },
   {
     "name": "Shulert API",
     "url": "https://api.shulert.com/status/api",
     "slug": "shulert-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 187
+    "time": 189
   },
   {
     "name": "Shulert Database",
     "url": "https://api.shulert.com/status/db",
     "slug": "shulert-database",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
     "time": 28
   },
