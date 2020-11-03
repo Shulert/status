@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.shulert.com): <!--live status--> **🟨 Partial outage**
+# [📈 Live Status](https://status.shulert.com): <!--live status--> **🟩 All systems operational**
 
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/koj-co/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -10,7 +10,7 @@
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
 | [Shulert Website](https://www.shulert.com) | 🟩 Up | [shulert-website.yml](https://github.com/Shulert/status/commits/master/history/shulert-website.yml) | <img alt="Response time graph" src="./graphs/shulert-website.png" height="20"> 299ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FShulert%2Fstatus%2Fmaster%2Fapi%2Fshulert-website%2Fuptime.json)
-| [Shulert API](https://api.shulert.com/status/api) | 🟥 Down | [shulert-api.yml](https://github.com/Shulert/status/commits/master/history/shulert-api.yml) | <img alt="Response time graph" src="./graphs/shulert-api.png" height="20"> 171ms | ![Uptime 99.85%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FShulert%2Fstatus%2Fmaster%2Fapi%2Fshulert-api%2Fuptime.json)
+| [Shulert API](https://api.shulert.com/status/api) | 🟩 Up | [shulert-api.yml](https://github.com/Shulert/status/commits/master/history/shulert-api.yml) | <img alt="Response time graph" src="./graphs/shulert-api.png" height="20"> 173ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FShulert%2Fstatus%2Fmaster%2Fapi%2Fshulert-api%2Fuptime.json)
 | [Shulert Database](https://api.shulert.com/status/db) | 🟩 Up | [shulert-database.yml](https://github.com/Shulert/status/commits/master/history/shulert-database.yml) | <img alt="Response time graph" src="./graphs/shulert-database.png" height="20"> 30ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FShulert%2Fstatus%2Fmaster%2Fapi%2Fshulert-database%2Fuptime.json)
 | [Shulert CDN](https://i.shulert.com) | 🟩 Up | [shulert-cdn.yml](https://github.com/Shulert/status/commits/master/history/shulert-cdn.yml) | <img alt="Response time graph" src="./graphs/shulert-cdn.png" height="20"> 156ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FShulert%2Fstatus%2Fmaster%2Fapi%2Fshulert-cdn%2Fuptime.json)
 <!--end: status pages-->
