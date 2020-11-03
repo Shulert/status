@@ -11,9 +11,9 @@
     "name": "Shulert API",
     "url": "https://api.shulert.com/status/api",
     "slug": "shulert-api",
-    "status": "down",
-    "uptime": "99.85",
-    "time": 171
+    "status": "up",
+    "uptime": "100.00",
+    "time": 173
   },
   {
     "name": "Shulert Database",
