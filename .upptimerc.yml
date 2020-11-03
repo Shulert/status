@@ -20,7 +20,7 @@ status-website:
   introTitle: "Shulert | Pray Your Way"
   introMessage: We work hard to make sure Shulert is always online and ready to help you! If you are experiencing issues, please reference the chart below.
   navbar:
-    - title: Shulert
+    - title: Home
       href: https://www.shulert.com
     - title: Status
       href: /
