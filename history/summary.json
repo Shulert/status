@@ -3,32 +3,32 @@
     "name": "Shulert Website",
     "url": "https://www.shulert.com",
     "slug": "shulert-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 277
+    "time": 265
   },
   {
     "name": "Shulert API",
     "url": "https://api.shulert.com/status/api",
     "slug": "shulert-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 186
+    "time": 179
   },
   {
     "name": "Shulert Database",
     "url": "https://api.shulert.com/status/db",
     "slug": "shulert-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 27
+    "time": 26
   },
   {
     "name": "Shulert CDN",
     "url": "https://i.shulert.com",
     "slug": "shulert-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 170
+    "time": 163
   }
 ]
