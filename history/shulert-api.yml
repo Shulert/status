@@ -1,7 +1,7 @@
 - url: https://api.shulert.com/status/api
-- status: down
-- code: 503
-- responseTime: 223
-- lastUpdated: 2020-11-03T22:18:50.900Z
+- status: up
+- code: 200
+- responseTime: 222
+- lastUpdated: 2020-11-03T22:47:41.303Z
 - startTime: 2020-10-23T18:32:59.448Z
 - generator: Upptime <https://github.com/upptime/upptime>
