@@ -4,12 +4,16 @@ user-agent: shulert-status
 sites:
   - name: Shulert Website
     url: https://www.shulert.com
+    icon: https://i.shulert.com/logo-mini-round.png
   - name: Shulert API
     url: https://api.shulert.com/status/api
+    icon: https://i.shulert.com/logo-mini-round.png
   - name: Shulert Database
     url: https://api.shulert.com/status/db
+    icon: https://i.shulert.com/logo-mini-round.png
   - name: Shulert CDN
     url: https://i.shulert.com
+    icon: https://i.shulert.com/logo-mini-round.png
 status-website:
   cname: status.shulert.com
   logoUrl: https://i.shulert.com/round.png
@@ -24,6 +28,8 @@ status-website:
       href: https://www.shulert.com
     - title: Status
       href: /
+    - title: GitHub
+      href: https://github.com/Shulert/status
 i18n:
   footer: © Copyright [Shulert — Pray Your Way](https://www.shulert.com). All Rights Reserved. | Powered by [Upptime](https://upptime.js.org).
 notifications:

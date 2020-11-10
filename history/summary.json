@@ -2,33 +2,88 @@
   {
     "name": "Shulert Website",
     "url": "https://www.shulert.com",
+    "icon": "https://i.shulert.com/logo-mini-round.png",
     "slug": "shulert-website",
     "status": "up",
-    "uptime": "100.00",
-    "time": 303
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
+    "time": 327,
+    "timeDay": 241,
+    "timeWeek": 328,
+    "timeMonth": 345,
+    "timeYear": 327,
+    "dailyMinutesDown": {
+      "2020-11-02": 11,
+      "2020-11-01": 6
+    }
   },
   {
     "name": "Shulert API",
     "url": "https://api.shulert.com/status/api",
+    "icon": "https://i.shulert.com/logo-mini-round.png",
     "slug": "shulert-api",
     "status": "up",
-    "uptime": "100.00",
-    "time": 200
+    "uptime": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.26%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.72%",
+    "time": 318,
+    "timeDay": 332,
+    "timeWeek": 311,
+    "timeMonth": 344,
+    "timeYear": 318,
+    "dailyMinutesDown": {
+      "2021-01-20": 276,
+      "2021-01-14": 29,
+      "2020-11-03": 62,
+      "2020-11-02": 19
+    }
   },
   {
     "name": "Shulert Database",
     "url": "https://api.shulert.com/status/db",
+    "icon": "https://i.shulert.com/logo-mini-round.png",
     "slug": "shulert-database",
     "status": "up",
-    "uptime": "100.00",
-    "time": 29
+    "uptime": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.26%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.75%",
+    "time": 23,
+    "timeDay": 10,
+    "timeWeek": 23,
+    "timeMonth": 18,
+    "timeYear": 23,
+    "dailyMinutesDown": {
+      "2021-01-20": 276,
+      "2020-11-03": 42,
+      "2020-11-02": 19
+    }
   },
   {
     "name": "Shulert CDN",
     "url": "https://i.shulert.com",
+    "icon": "https://i.shulert.com/logo-mini-round.png",
     "slug": "shulert-cdn",
     "status": "up",
-    "uptime": "100.00",
-    "time": 162
+    "uptime": "99.99%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 189,
+    "timeDay": 193,
+    "timeWeek": 177,
+    "timeMonth": 203,
+    "timeYear": 189,
+    "dailyMinutesDown": {
+      "2021-01-26": 5,
+      "2020-11-02": 13
+    }
   }
 ]
